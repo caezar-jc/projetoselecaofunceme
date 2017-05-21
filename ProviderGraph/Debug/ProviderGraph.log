@@ -1,0 +1,8 @@
+﻿  stdafx.cpp
+  provider_node.cpp
+  ProviderGraph.cpp
+  joint_node.cpp
+  graph_node.cpp
+  client_node.cpp
+  Generating Code...
+  ProviderGraph.vcxproj -> D:\Projetos\FuncemeSelection\Debug\ProviderGraph.exe
